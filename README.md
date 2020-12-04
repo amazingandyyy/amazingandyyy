@@ -4,8 +4,14 @@
 <h1 align="center">
 Andy Chen
 </h1>
+
 <p align="center">
-End-to-end Software Architect
+   <a href="https://www.amazingandyyy.com" target="_blank">
+      <img styles="margin: 20px" src="https://github-readme-stats.vercel.app/api?username=amazingandyyy&count_private=true&show_icons=true" />
+   </a>
+   <a href="https://www.amazingandyyy.com" target="_blank">
+      <img styles="margin: 20px" src="https://github-readme-stats.vercel.app/api/wakatime?username=amazingandyyy&count_private=true&show_icons=true" />
+   </a>
 </p>
 
 <p align="center">

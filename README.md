@@ -3,11 +3,11 @@
 </p>
 <h1 align="center">Andy Chen (amazingandyyy)</h1>
 
-<p align="center">
+<!-- <p align="center">
    <a href="https://www.amazingandyyy.com" target="_blank">
       <img styles="margin: 20px" src="https://github-readme-stats.vercel.app/api?username=amazingandyyy&count_private=true&show_icons=true" />
    </a>
-</p>
+</p> -->
 
 <p align="center">
    <a href="https://www.amazingandyyy.com" target="_blank">

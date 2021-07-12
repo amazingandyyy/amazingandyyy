@@ -1,7 +1,7 @@
 <p styles="font-size: 20rem" align="center">
     <img styles="margin: 0px" width="150px" src="https://i.imgur.com/jtmVNrq.png" />
 </p>
-<h1 align="center">Andy Chen (amazingandyyy)</h1>
+<h1 align="center">Andy Chen</h1>
 
 <!-- <p align="center">
    <a href="https://www.amazingandyyy.com" target="_blank">

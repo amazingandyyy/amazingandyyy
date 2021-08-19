@@ -3,12 +3,6 @@
 </p>
 <h1 align="center">Andy Chen</h1>
 
-<!-- <p align="center">
-   <a href="https://www.amazingandyyy.com" target="_blank">
-      <img styles="margin: 20px" src="https://github-readme-stats.vercel.app/api?username=amazingandyyy&count_private=true&show_icons=true" />
-   </a>
-</p> -->
-
 <p align="center">
    <a href="https://www.amazingandyyy.com" target="_blank">
       <img styles="margin: 20px" height="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQMT8Cjhrp7e7pmTWbyLds7Sm9Z0BIgdoD-iQCaL8Xqqcl1yIsY" />
@@ -24,7 +18,7 @@
 > *Spent 1/3 of my life (8 years) learning and building. Currently happily married, write YAML in day time and build DApp in night time*
 
 ## A.K.A **amazingandyyy**
-- 🦄 Me: [https://www.amazingandyyy.com](https://www.amazingandyyy.com)
+- Me: [https://www.amazingandyyy.com](https://amazingandyyy.com)
 - Github: [https://github.com/amazingandyyy](https://github.com/amazingandyyy)
 - Linkedin: [https://www.linkedin.com/in/amazingandyyy/](https://www.linkedin.com/in/amazingandyyy/)
-- Medium - [https://medium.com/@amazingandyyy](https://medium.com/@amazingandyyy)
+- Medium: [https://medium.com/@amazingandyyy](https://medium.com/@amazingandyyy)

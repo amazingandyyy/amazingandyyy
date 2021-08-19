@@ -18,7 +18,8 @@
 > *Spent 1/3 of my life (8 years) learning and building. Currently happily married, write YAML in day time and build DApp in night time*
 
 ## A.K.A **amazingandyyy**
-- Me: [https://www.amazingandyyy.com](https://amazingandyyy.com)
-- Github: [https://github.com/amazingandyyy](https://github.com/amazingandyyy)
-- Linkedin: [https://www.linkedin.com/in/amazingandyyy/](https://www.linkedin.com/in/amazingandyyy/)
+- Me: [https://amazingandyyy.com](https://amazingandyyy.com)
+- Github: [https://git.io/amazingandyyy](https://github.com/amazingandyyy)
+- Linkedin: [https://linkedin.com/in/amazingandyyy](https://www.linkedin.com/in/amazingandyyy)
+- Twitter: [https://twitter.com/amazingandyyyer](https://twitter.com/amazingandyyyer)
 - Medium: [https://medium.com/@amazingandyyy](https://medium.com/@amazingandyyy)

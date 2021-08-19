@@ -21,7 +21,7 @@
    </a>
 </p>
 
-> *Rich experience in full-stack software engineering with full product life-cycle and open source contribution. I care about user experience as much as internal/external developer experience, with multiple experiences in working with a cross-functional team. Currently earned AWS Certified Solutions Architect Associate.*
+> *Spent 1/3 of my life (8 years) learning and building. Currently happily married, write YAML in day time and build DApp in night time*
 
 ## A.K.A **amazingandyyy**
 - 🦄 Me: [https://www.amazingandyyy.com](https://www.amazingandyyy.com)

@@ -25,3 +25,5 @@
 - Linkedin: [https://linkedin.com/in/amazingandyyy](https://www.linkedin.com/in/amazingandyyy)
 - Twitter: [https://twitter.com/amazingandyyyer](https://twitter.com/amazingandyyyer)
 - Medium: [https://medium.com/@amazingandyyy](https://medium.com/@amazingandyyy)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amazingandyyy&show_icons=true&locale=en&layout=compact" alt="ianchen0119" /></p>

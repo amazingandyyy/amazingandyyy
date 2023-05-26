@@ -17,11 +17,10 @@
 
 > *Spent 1/3 of my life (9 years) learning and building. Currently happily married, write YAML in day time and build DApp in night time*
 
-<a href="https://mentorcruise.com/mentor/andychen/"> <img src="https://cdn.mentorcruise.com/img/banner/fire-sm.svg" width="240" alt="MentorCruise"> </a>
+<!-- <a href="https://mentorcruise.com/mentor/andychen/"> <img src="https://cdn.mentorcruise.com/img/banner/fire-sm.svg" width="240" alt="MentorCruise"> </a> -->
 
 ## A.K.A **amazingandyyy**
 - Me: [https://amazingandyyy.com](https://amazingandyyy.com)
 - Github: [https://git.io/amazingandyyy](https://github.com/amazingandyyy)
-- Linkedin: [https://linkedin.com/in/amazingandyyy](https://www.linkedin.com/in/amazingandyyy)
-- Twitter: [https://twitter.com/amazingandyyyer](https://twitter.com/amazingandyyyer)
+- LinkedIn: [https://linkedin.com/in/amazingandyyy](https://www.linkedin.com/in/amazingandyyy)
 - Medium: [https://medium.com/@amazingandyyy](https://medium.com/@amazingandyyy)

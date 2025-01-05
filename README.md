@@ -15,16 +15,16 @@
    </a>
 </p>
 
-## Duolingo
+## A.K.A **amazingandyyy**
+- Me: [https://amazingandyyy.com](https://amazingandyyy.com)
+- Github: [https://git.io/amazingandyyy](https://github.com/amazingandyyy)
+- LinkedIn: [https://linkedin.com/in/amazingandyyy](https://www.linkedin.com/in/amazingandyyy)
+- Medium: [https://medium.com/@amazingandyyy](https://medium.com/@amazingandyyy)
+
+## Duolingo Streaks
 
 <div align="center">
   <a href="https://www.duolingo.com/profile/amazingandyyy">
     <img src="https://duolingo-stats-card.vercel.app/api?username=amazingandyyy&sort=xp" alt="Logo">
   </a>
 </div>
-
-## A.K.A **amazingandyyy**
-- Me: [https://amazingandyyy.com](https://amazingandyyy.com)
-- Github: [https://git.io/amazingandyyy](https://github.com/amazingandyyy)
-- LinkedIn: [https://linkedin.com/in/amazingandyyy](https://www.linkedin.com/in/amazingandyyy)
-- Medium: [https://medium.com/@amazingandyyy](https://medium.com/@amazingandyyy)

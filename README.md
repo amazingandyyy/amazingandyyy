@@ -4,7 +4,7 @@
 <h1 align="center">Andy Chen</h1>
 
 <div align="center">
-  <a href="https://github.com/KevzPeter/Duolingo-Stats-Card">
+  <a href="https://www.duolingo.com/profile/amazingandyyy">
     <img src="https://duolingo-stats-card.vercel.app/api?username=amazingandyyy&sort=xp" alt="Logo">
   </a>
 </div>

@@ -3,12 +3,6 @@
 </p>
 <h1 align="center">Andy Chen</h1>
 
-<div align="center">
-  <a href="https://www.duolingo.com/profile/amazingandyyy">
-    <img src="https://duolingo-stats-card.vercel.app/api?username=amazingandyyy&sort=xp" alt="Logo">
-  </a>
-</div>
-
 <p align="center">
    <a href="https://www.amazingandyyy.com" target="_blank">
       <img styles="margin: 20px" height="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQMT8Cjhrp7e7pmTWbyLds7Sm9Z0BIgdoD-iQCaL8Xqqcl1yIsY" />
@@ -21,7 +15,13 @@
    </a>
 </p>
 
-<!-- <a href="https://mentorcruise.com/mentor/andychen/"> <img src="https://cdn.mentorcruise.com/img/banner/fire-sm.svg" width="240" alt="MentorCruise"> </a> -->
+## Duolingo
+
+<div align="center">
+  <a href="https://www.duolingo.com/profile/amazingandyyy">
+    <img src="https://duolingo-stats-card.vercel.app/api?username=amazingandyyy&sort=xp" alt="Logo">
+  </a>
+</div>
 
 ## A.K.A **amazingandyyy**
 - Me: [https://amazingandyyy.com](https://amazingandyyy.com)
